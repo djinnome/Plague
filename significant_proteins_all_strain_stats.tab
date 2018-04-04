@@ -1,0 +1,298 @@
+$Y_pestis_CO92_proteins	index	Description	fold_change_strain	Y_pestis_CO92	Similarity_Y_pestis_Yp4003.to.Y_pestis_CO92	Similarity_Y_pestis_CO92.to.Y_pestis_Yp4003
+	KGA47898.1	 acriflavine resistance protein A [Yersinia pestis]	-0.706360835			
+	KGA47909.1	 transcriptional regulator NrdR [Yersinia pestis]	-1.2077949159999999			
+	KGA47911.1	 2-dehydropantoate 2-reductase family protein [Yersinia pestis]	-0.332319824			
+	KGA47928.1	 hypothetical protein DJ56_3655 [Yersinia pestis]	-0.518407512			
+	KGA48457.1	 malic enzyme, NAD binding domain protein [Yersinia pestis]	-0.314217905			
+	KGA48477.1	 heme ABC exporter, ATP-binding protein CcmA [Yersinia pestis]	-2.0			
+	KGA48500.1	 periplasmic binding domain protein [Yersinia pestis]	-1.777179209			
+	KGA48966.1	 peptidase M48 family protein [Yersinia pestis]	-0.7168760590000001			
+	KGA48972.1	 transketolase [Yersinia pestis]	-0.18383299			
+	KGA48973.1	 YGGT family protein [Yersinia pestis]	-2.0			
+	KGA48977.1	 agmatine deiminase [Yersinia pestis]	2.0			
+	KGA50539.1	 aldo/keto reductase family protein [Yersinia pestis]	-0.243796166			
+	KGA50772.1	 hypothetical protein DJ56_3797 [Yersinia pestis]	-2.0			
+	KGA50793.1	 E3 ubiquitin-protein ligase ipaH9.8 [Yersinia pestis]	-2.0			
+	KGA50799.1	 tRNA-guanine transglycosylase [Yersinia pestis]	2.0			
+	KGA51667.1	 peptide chain release factor 1 [Yersinia pestis]	-0.98164066			
+	KGA51682.1	 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase [Yersinia pestis]	2.0			
+	KGA51728.1	 succinyl-CoA ligase [ADP-forming] subunit beta [Yersinia pestis]	-0.361360681			
+	KGA51734.1	 oxoglutarate dehydrogenase (succinyl-transferring), E1 component [Yersinia pestis]	-0.20779203300000001			
+	KGA51737.1	 Tol-Pal system beta propeller repeat protein TolB [Yersinia pestis]	-0.283080088			
+	KGA51742.1	 dihydrolipoyllysine-residue succinyltransferase, E2 component of oxoglutarate dehydrogenase complex [Yersinia pestis]	-0.32141589			
+	KGA51743.1	 grpE family protein [Yersinia pestis]	-0.299080946			
+	KGA51749.1	 tol-pal system protein YbgF [Yersinia pestis]	2.0			
+	KGA51750.1	 succinate dehydrogenase iron-sulfur subunit [Yersinia pestis]	-0.5930245789999999			
+	KGA51755.1	 protein TolA [Yersinia pestis]	-2.0			
+	KGA51756.1	 succinate dehydrogenase, flavoprotein subunit [Yersinia pestis]	-0.460866523			
+	KGA51767.1	 acetolactate synthase, large subunit, biosynthetic type [Yersinia pestis]	-2.0			
+	KGA51778.1	 cell division protein FtsZ [Yersinia pestis]	-0.234389645			
+	KGA51786.1	 peptidoglycan synthase ftsI [Yersinia pestis]	-2.0			
+	KGA51789.1	 UDP-N-acetylmuramoylalanine--D-glutamate ligase [Yersinia pestis]	2.0			
+	KGA51793.1	 D-alanine--D-alanine ligase family protein [Yersinia pestis]	-0.740584413			
+	KGA51871.1	 2-polyprenylphenol 6-hydroxylase [Yersinia pestis]	2.0			
+	KGA51874.1	 glycerophosphoryl diester phosphodiesterase family protein [Yersinia pestis]	-2.0			
+	KGA51883.1	 pectin degradation repressor protein kdgR [Yersinia pestis]	-0.427655451			
+	KGA51886.1	 dicarboxylate symporter family protein [Yersinia pestis]	-0.44144019			
+	KGA51937.1	 hypothetical protein DJ56_4192 [Yersinia pestis]	1.128052646			
+	KGA51976.1	 beta-ketoacyl-acyl-carrier-protein synthase II [Yersinia pestis]	0.734399811			
+	KGA51980.1	 ribonuclease, Rne/Rng family domain protein [Yersinia pestis]	-0.505509442			
+	KGA52022.1	 coagulase/fibrinolysin [Yersinia pestis]	-1.159173			
+	KGA52064.1	 ATP-dependent chaperone protein ClpB [Yersinia pestis]	-0.260443455			
+	KGA52079.1	 poly(A) polymerase family protein [Yersinia pestis]	-0.9158529679999999			
+	KGA52084.1	 GTP pyrophosphokinase [Yersinia pestis]	-0.8013203000000001			
+	KGA52088.1	 CTP synthase [Yersinia pestis]	0.391966398			
+	KGA52097.1	 sulfite reductase (NADPH) hemoprotein, beta-component [Yersinia pestis]	-2.0			
+	KGA52102.1	 DNA mismatch repair protein MutS [Yersinia pestis]	-0.7351497909999999			
+	KGA52134.1	 16S rRNA processing protein RimM [Yersinia pestis]	-1.940934126			
+	KGA52135.1	 aconitate hydratase 2 [Yersinia pestis]	-0.30880091600000004			
+	KGA52161.1	 tRNA pseudouridine synthase D [Yersinia pestis]	-2.0			
+	KGA52177.1	 RNA polymerase sigma factor RpoS [Yersinia pestis]	-2.0			
+	KGA52194.1	 glutamate-1-semialdehyde-2,1-aminomutase [Yersinia pestis]	-0.449652311			
+	KGA52195.1	 glutamate--cysteine ligase [Yersinia pestis]	1.248723692			
+	KGA52196.1	 penicillin-binding protein 1B [Yersinia pestis]	-1.011927855			
+	KGA52203.1	 hypothetical protein DJ56_496 [Yersinia pestis]	-2.8998136519999997			
+	KGA52211.1	 5'/3'-nucleotidase SurE [Yersinia pestis]	-2.0			
+	KGA52218.1	 aspartate kinase domain protein [Yersinia pestis]	2.0			
+	KGA52224.1	 iron-sulfur cluster insertion protein erpA [Yersinia pestis]	-2.0			
+	KGA52232.1	 T-protein [Yersinia pestis]	-1.398658341			
+	KGA52239.1	 ferrous iron transport protein B [Yersinia pestis]	-2.0			
+	KGA52245.1	 sporulation related domain protein [Yersinia pestis]	-0.517344805			
+	KGA52251.1	 penicillin-binding, 1A family protein [Yersinia pestis]	-2.0			
+	KGA52260.1	 carbonic anhydrase 2 [Yersinia pestis]	-2.0			
+	KGA52283.1	 ribulose-phosphate 3-epimerase [Yersinia pestis]	-2.0			
+	KGA52313.1	 purine nucleoside phosphorylase [Yersinia pestis]	-0.7073724220000001			
+	KGA52323.1	 thiamine pyrophosphate enzyme, central domain protein [Yersinia pestis]	-1.365513652			
+	KGA52335.1	 LPS-assembly protein lptD [Yersinia pestis]	1.768715817			
+	KGA52346.1	 chaperone protein DnaK [Yersinia pestis]	-0.259843595			
+	KGA52348.1	 ubiquinone oxidoreductase, Na(+)-translocating, C subunit [Yersinia pestis]	-1.4555849019999998			
+	KGA52376.1	 putative lipopolysaccharide heptosyltransferase III [Yersinia pestis]	-2.0			
+	KGA52390.1	 Na+/H+ antiporter NhaA [Yersinia pestis]	1.207334992			
+	KGA52392.1	 hypothetical protein DJ56_364 [Yersinia pestis]	-1.248663499			
+	KGA52395.1	 recombination-associated protein rdgC [Yersinia pestis]	0.645408882			
+	KGA52411.1	 ompA family protein [Yersinia pestis]	2.0			
+	KGA52419.1	 transaldolase [Yersinia pestis]	-0.363491392			
+	KGA52427.1	 alpha/beta hydrolase family protein [Yersinia pestis]	-0.393838232			
+	KGA52436.1	 hypothetical protein DJ56_362 [Yersinia pestis]	1.9763441659999998			
+	KGA52463.1	 dihydrofolate reductase [Yersinia pestis]	-2.0			
+	KGA52476.1	 hypothetical protein DJ56_401 [Yersinia pestis]	-1.373938892			
+	KGA52493.1	 ribosomal RNA small subunit methyltransferase C [Yersinia pestis]	-2.0			
+	KGA52494.1	 der GTPase activator family protein [Yersinia pestis]	-2.0			
+	KGA52496.1	 glutamate-5-semialdehyde dehydrogenase [Yersinia pestis]	-0.465127165			
+	KGA52500.1	 ribosome biogenesis GTP-binding protein YsxC [Yersinia pestis]	-0.734274097			
+	KGA52527.1	 phosphoheptose isomerase [Yersinia pestis]	-2.0			
+	KGA52552.1	 adenylosuccinate lyase [Yersinia pestis]	0.536403699			
+	KGA52556.1	 ATP synthase F0, B subunit [Yersinia pestis]	-0.198783362			
+	KGA52571.1	 xylulokinase [Yersinia pestis]	-2.0			
+	KGA52598.1	 pyridoxal-phosphate dependent enzyme family protein [Yersinia pestis]	-2.0			
+	KGA52613.1	 cupin superfamily protein [Yersinia pestis]	2.0			
+	KGA52631.1	 phosphate transport system regulatory protein PhoU [Yersinia pestis]	-2.0			
+	KGA52665.1	 alpha amylase, catalytic domain protein [Yersinia pestis]	-2.0			
+	KGA52674.1	 NAD(P)H binding domain of trans-2-enoyl-CoA reductase family protein [Yersinia pestis]	-1.250912625			
+	KGA52694.1	 glycine--tRNA ligase, beta subunit [Yersinia pestis]	-0.48395047799999996			
+	KGA52760.1	 aspartate-semialdehyde dehydrogenase [Yersinia pestis]	-0.287425103			
+	KGA52764.1	 dihydroxy-acid dehydratase [Yersinia pestis]	1.132978327			
+	KGA52787.1	 insulinase family protease [Yersinia pestis]	-2.0			
+	KGA52789.1	 pyridine nucleotide-disulfide oxidoreductase family protein [Yersinia pestis]	2.256991494			
+	KGA52801.1	 phospholipase A1 [Yersinia pestis]	0.6780137690000001			
+	KGA52807.1	 cell division ATP-binding protein FtsE [Yersinia pestis]	-0.49304717299999995			
+	KGA52815.1	 HAD hydrolase, IA, variant 1 family protein [Yersinia pestis]	-2.0			
+	KGA52849.1	 phosphoenolpyruvate carboxylase family protein [Yersinia pestis]	-0.468379785			
+	KGA52862.1	 nucleotide sugar dehydrogenase family protein [Yersinia pestis]	-0.325707225			
+	KGA52873.1	 N-acetyl-gamma-glutamyl-phosphate reductase [Yersinia pestis]	-0.765927244			
+	KGA52880.1	 4-alpha-L-fucosyltransferase glycosyl transferase group 56 family protein [Yersinia pestis]	-2.0			
+	KGA52898.1	 acetylglutamate kinase [Yersinia pestis]	-2.0			
+	KGA52910.1	 peptidyl-prolyl cis-trans isomerase C [Yersinia pestis]	-2.0			
+	KGA52914.1	 1,4-alpha-glucan branching enzyme [Yersinia pestis]	-0.7034568040000001			
+	KGA52919.1	 acetylornithine deacetylase [Yersinia pestis]	-1.669261075			
+	KGA52935.1	 NAD(P)(+) transhydrogenase (AB-specific), alpha subunit [Yersinia pestis]	-0.875283952			
+	KGA52938.1	 6-phosphofructokinase [Yersinia pestis]	-2.0			
+	KGA52964.1	 fumarate and nitrate reduction regulatory protein [Yersinia pestis]	-2.0			
+	KGA52991.1	 hypothetical protein DJ56_4 [Yersinia pestis]	-2.0			
+	KGA53007.1	 peptidase S49 family protein [Yersinia pestis]	-2.0			
+	KGA53008.1	 ATP-dependent DNA helicase RecG [Yersinia pestis]	-2.0			
+	KGA53018.1	 short chain dehydrogenase family protein [Yersinia pestis]	-2.0			
+	KGA53019.1	 HAMP domain protein [Yersinia pestis]	-2.0			
+	KGA53042.1	 putative oxidoreductase [Yersinia pestis]	-0.47443998			
+	KGA53047.1	 periplasmic murein peptide-binding protein [Yersinia pestis]	-1.077973439			
+	KGA53048.1	 orotidine 5'-phosphate decarboxylase [Yersinia pestis]	1.35505737			
+	KGA53058.1	 lipopolysaccharide heptosyltransferase I [Yersinia pestis]	2.0			
+	KGA53072.1	 transcriptional regulatory protein tyrR [Yersinia pestis]	-2.0			
+	KGA53092.1	 aldehyde-alcohol dehydrogenase [Yersinia pestis]	-0.5536668379999999			
+	KGA53115.1	 lipopolysaccharide heptosyltransferase II [Yersinia pestis]	2.0			
+	KGA53116.1	 hypothetical protein DJ56_51 [Yersinia pestis]	-0.975156265			
+	KGA53139.1	 ADP-glyceromanno-heptose 6-epimerase [Yersinia pestis]	-0.51473494			
+	KGA53148.1	 DNA topoisomerase I [Yersinia pestis]	-2.0			
+	KGA53172.1	 protein yciN [Yersinia pestis]	1.388022776			
+	KGA53175.1	 hypothetical protein DJ56_135 [Yersinia pestis]	1.12059093			
+	KGA53198.1	 ribosomal RNA large subunit methyltransferase J [Yersinia pestis]	-0.8794503370000001			
+	KGA53218.1	 tRNA pseudouridine(55) synthase [Yersinia pestis]	-2.0			
+	KGA53228.1	 putative heme utilization radical SAM enzyme HutW [Yersinia pestis]	1.3790788040000002			
+	KGA53263.1	 inorganic pyrophosphatase [Yersinia pestis]	2.132798425			
+	KGA53265.1	 alpha-ketoglutarate-dependent taurine dioxygenase [Yersinia pestis]	-2.0			
+	KGA53269.1	 Obg family GTPase CgtA [Yersinia pestis]	-0.886518203			
+	KGA53274.1	 taurine ABC transporter, periplasmic binding protein [Yersinia pestis]	-2.0			
+	KGA53313.1	 acetyltransferase family protein [Yersinia pestis]	3.339501735			
+	KGA53316.1	 peptide deformylase [Yersinia pestis]	-0.550230629			
+	KGA53320.1	 shikimate dehydrogenase [Yersinia pestis]	-0.818884264			
+	KGA53322.1	 L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase [Yersinia pestis]	-0.5511293310000001			
+	KGA53326.1	 cytosol aminopeptidase [Yersinia pestis]	-0.517717622			
+	KGA53372.1	 malate dehydrogenase, NAD-dependent [Yersinia pestis]	-0.265656557			
+	KGA53374.1	 glycosyltransferase 9 family protein [Yersinia pestis]	2.0			
+	KGA53375.1	 surface antigen variable number repeat family protein [Yersinia pestis]	-2.0			
+	KGA53405.1	 trkA-N domain protein [Yersinia pestis]	-0.9112729970000001			
+	KGA53407.1	 ribosomal protein S15 [Yersinia pestis]	1.101975234			
+	KGA53420.1	 polyribonucleotide nucleotidyltransferase [Yersinia pestis]	-0.22977478899999998			
+	KGA53433.1	 succinylornithine transaminase family protein [Yersinia pestis]	2.0			
+	KGA53436.1	 TonB-dependent siderophore receptor family protein [Yersinia pestis]	-0.38106339899999997			
+	KGA53454.1	 CRISPR type I-F/YPEST-associated protein Csy1 [Yersinia pestis]	-2.0			
+	KGA53465.1	 amino acid adenylation domain protein [Yersinia pestis]	-1.262054416			
+	KGA53490.1	 thioesterase domain protein [Yersinia pestis]	-1.155182484			
+	KGA53517.1	 ABC transporter family protein [Yersinia pestis]	-0.9879590340000001			
+	KGA53524.1	 salicylate synthase [Yersinia pestis]	-0.9969953490000001			
+	KGA53568.1	 CRISPR type I-F/YPEST-associated protein Csy3 [Yersinia pestis]	-1.314366689			
+	KGA53585.1	 AMP-binding enzyme family protein [Yersinia pestis]	-0.618029802			
+	KGA53608.1	 polyphosphate kinase 1 [Yersinia pestis]	-0.893892499			
+	KGA53669.1	 phosphoribosylformylglycinamidine cyclo-ligase [Yersinia pestis]	0.897951095			
+	KGA53690.1	 istB-like ATP binding family protein [Yersinia pestis]	2.0			
+	KGA53813.1	 ParB/RepB/Spo0J family partition domain protein [Yersinia pestis]	-2.0			
+	KGA53841.1	 DNA-binding protein H-NS [Yersinia pestis]	-0.49400053299999996			
+	KGA53847.1	 glucosamine-6-phosphate deaminase [Yersinia pestis]	-1.455584283			
+	KGA53864.1	 hypothetical protein DJ56_1845 [Yersinia pestis]	-1.032144351			
+	KGA53929.1	 PTS system, N-acetylglucosamine-specific IIBC component [Yersinia pestis]	-1.241807409			
+	KGA53932.1	 aldose 1-epimerase family protein [Yersinia pestis]	-0.744620985			
+	KGA53935.1	 nucleotide sugar dehydrogenase family protein [Yersinia pestis]	-0.41036426600000003			
+	KGA53958.1	 thioredoxin-disulfide reductase [Yersinia pestis]	-0.394971453			
+	KGA53969.1	 THUMP domain protein [Yersinia pestis]	-0.9514840640000001			
+	KGA53979.1	 1-acylglycerol-3-phosphate O-acyltransferases domain protein [Yersinia pestis]	1.184829312			
+	KGA53987.1	 3-phosphoshikimate 1-carboxyvinyltransferase [Yersinia pestis]	-0.784110255			
+	KGA53998.1	 bacterial SH3 domain protein [Yersinia pestis]	-2.0			
+	KGA54016.1	 RNA polymerase sigma factor RpoD [Yersinia pestis]	-0.685029363			
+	KGA54021.1	 bifunctional protein RfaE, domain I [Yersinia pestis]	-0.49124411700000004			
+	KGA54029.1	 phosphoserine transaminase [Yersinia pestis]	-0.43985179799999996			
+	KGA54043.1	 lipid A export permease/ATP-binding protein MsbA [Yersinia pestis]	-1.342156715			
+	KGA54050.1	 chromosome partition protein mukE [Yersinia pestis]	0.7260666240000001			
+	KGA54086.1	 peptidase Do family protein [Yersinia pestis]	-0.338174242			
+	KGA54095.1	 urease accessory protein UreG [Yersinia pestis]	-2.0			
+	KGA54104.1	 putative stringent starvation protein A [Yersinia pestis]	-0.330827313			
+	KGA54106.1	 NIF3 family protein [Yersinia pestis]	-2.0			
+	KGA54107.1	 FAD binding domain of DNA photolyase family protein [Yersinia pestis]	-2.0			
+	KGA54143.1	 substrate binding domain of ABC-type glycine betaine transport system family protein [Yersinia pestis]	-0.6374442060000001			
+	KGA54146.1	 16S rRNA (cytidine(1402)-2'-O)-methyltransferase [Yersinia pestis]	-2.0			
+	KGA54152.1	 trkA-N domain protein [Yersinia pestis]	-3.4320244960000004			
+	KGA54156.1	 reactive intermediate/imine deaminase family protein [Yersinia pestis]	-0.539957476			
+	KGA54165.1	 elongation factor 4 [Yersinia pestis]	-0.638537302			
+	KGA54185.1	 protein seqA [Yersinia pestis]	1.3022939740000001			
+	KGA54191.1	 DJ-1/PfpI family protein [Yersinia pestis]	-0.508411336			
+	KGA54197.1	 BON domain protein [Yersinia pestis]	-0.421299015			
+	KGA54204.1	 L-aspartate oxidase [Yersinia pestis]	-0.7984747190000001			
+	KGA54215.1	 peptidyl-prolyl cis-trans isomerase B [Yersinia pestis]	-0.324275167			
+	KGA54219.1	 copper-translocating P-type ATPase [Yersinia pestis]	-2.0			
+	KGA54241.1	 SIS domain protein [Yersinia pestis]	2.0			
+	KGA54244.1	 sulfate ABC transporter, ATP-binding family protein [Yersinia pestis]	-1.001130535			
+	KGA54251.1	 bacterial regulatory s, luxR family protein [Yersinia pestis]	-2.0			
+	KGA54257.1	 glucose-specific phosphotransferase enzyme IIA component [Yersinia pestis]	-0.24017481100000002			
+	KGA54264.1	 thioredoxin family protein [Yersinia pestis]	-0.544335716			
+	KGA54268.1	 succinyl-diaminopimelate desuccinylase [Yersinia pestis]	-1.2958505409999999			
+	KGA54269.1	 phosphoribosylaminoimidazolesuccinocarboxamide synthase [Yersinia pestis]	-0.6355581220000001			
+	KGA54271.1	 DNA polymerase III, subunit gamma and tau [Yersinia pestis]	-2.0			
+	KGA54276.1	 response regulator [Yersinia pestis]	-2.0			
+	KGA54288.1	 DNA ligase, NAD-dependent [Yersinia pestis]	0.905862105			
+	KGA54290.1	 4-hydroxy-tetrahydrodipicolinate synthase [Yersinia pestis]	-0.867398089			
+	KGA54305.1	 ABC transporter family protein [Yersinia pestis]	-2.456335477			
+	KGA54324.1	 cysteine synthase A [Yersinia pestis]	-0.8142423320000001			
+	KGA54334.1	 protein QmcA [Yersinia pestis]	-2.0			
+	KGA54349.1	 putative peroxiredoxin bcp [Yersinia pestis]	-0.431063739			
+	KGA54388.1	 ATP-independent RNA helicase dbpA [Yersinia pestis]	2.0			
+	KGA54397.1	 bacterial extracellular solute-binding s, 3 family protein [Yersinia pestis]	-1.078794915			
+	KGA54398.1	 prolyl oligopeptidase family protein [Yersinia pestis]	-0.544016517			
+	KGA54427.1	 protein YobA [Yersinia pestis]	-1.186372235			
+	KGA54433.1	 PTS system mannose-specific EIIAB component [Yersinia pestis]	-0.531903603			
+	KGA54455.1	 hypothetical protein DJ56_2359 [Yersinia pestis]	-2.0			
+	KGA54459.1	 delta-1-pyrroline-5-carboxylate dehydrogenase [Yersinia pestis]	-0.619375412			
+	KGA54542.1	 rare lipoA family protein [Yersinia pestis]	-0.39106528399999996			
+	KGA54543.1	 leucine--tRNA ligase [Yersinia pestis]	2.0			
+	KGA54546.1	 hypothetical protein DJ56_2497 [Yersinia pestis]	2.0			
+	KGA54559.1	 tRNA-i(6)A37 thiotransferase enzyme MiaB [Yersinia pestis]	-1.127194888			
+	KGA54566.1	 ribosome silencing factor [Yersinia pestis]	2.0			
+	KGA54570.1	 naphthoate synthase [Yersinia pestis]	-2.0			
+	KGA54571.1	 methylmalonate-semialdehyde dehydrogenase [Yersinia pestis]	-1.261884483			
+	KGA54592.1	 NADH-quinone oxidoreductase subunit E [Yersinia pestis]	0.5539476210000001			
+	KGA54616.1	 phosphotransferase enzyme family protein [Yersinia pestis]	-2.0			
+	KGA54620.1	 DNA polymerase I [Yersinia pestis]	-1.917442114			
+	KGA54643.1	 glycosyl hydrolase 1 family protein [Yersinia pestis]	1.171765747			
+	KGA54659.1	 ribonucleoside-diphosphate reductase 1 subunit beta [Yersinia pestis]	0.385651361			
+	KGA54665.1	 ecotin family protein [Yersinia pestis]	-1.207918333			
+	KGA54690.1	 putative enzyme [Yersinia pestis]	-2.0			
+	KGA54712.1	 37-kD nucleoid-associated bacterial family protein [Yersinia pestis]	0.7759753079999999			
+	KGA54726.1	 FGGY carbohydrate kinase domain-containing protein [Yersinia pestis]	-2.0			
+	KGA54735.1	 carbon-nitrogen hydrolase family protein [Yersinia pestis]	-0.381930714			
+	KGA54756.1	 periplasmic binding domain protein [Yersinia pestis]	-0.8487454659999999			
+	KGA54759.1	 protein pmbA [Yersinia pestis]	-2.0			
+	KGA54762.1	 oxidoreductase molybdopterin binding domain protein [Yersinia pestis]	-1.9365818080000001			
+	KGA54789.1	 modulator of DNA gyrase family protein [Yersinia pestis]	0.960229632			
+	KGA54793.1	 outer membrane lipoprotein slyB [Yersinia pestis]	-0.81614742			
+	KGA54802.1	 ribonuclease G [Yersinia pestis]	2.0			
+	KGA54841.1	 inner membrane CreD family protein [Yersinia pestis]	-2.0			
+	KGA54846.1	 mechanosensitive ion channel family protein [Yersinia pestis]	-0.9914574540000001			
+	KGA54861.1	 ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6 family protein [Yersinia pestis]	-2.0			
+	KGA54877.1	 glycosyl hydrolase 53 family protein [Yersinia pestis]	-2.0			
+	KGA54889.1	 DSBA-like thioredoxin domain protein [Yersinia pestis]	-0.453709264			
+	KGA54896.1	 phosphoglycerate kinase family protein [Yersinia pestis]	-0.22984680600000001			
+	KGA54925.1	 zinc-binding dehydrogenase family protein [Yersinia pestis]	-0.665988216			
+	KGA54928.1	 ribosome small subunit-dependent GTPase A [Yersinia pestis]	-3.573161181			
+	KGA54937.1	 fumarate reductase, flavoprotein subunit [Yersinia pestis]	-2.374762425			
+	KGA54961.1	 ferric uptake regulator family protein [Yersinia pestis]	-0.45461938399999996			
+	KGA54994.1	 EF-P lysine aminoacylase GenX [Yersinia pestis]	-1.38975528			
+	KGA55010.1	 acetyl-CoA C-acyltransferase FadA [Yersinia pestis]	-1.213406268			
+	KGA55026.1	 bacterial regulatory s, lacI family protein [Yersinia pestis]	1.031048217			
+	KGA55048.1	 pyruvate kinase [Yersinia pestis]	-0.174993022			
+	KGA55063.1	 delta-aminolevulinic acid dehydratase family protein [Yersinia pestis]	0.613971705			
+	KGA55077.1	 fatty oxidation complex, alpha subunit FadB [Yersinia pestis]	-1.31746725			
+	KGA55088.1	 inner membrane protein yecN [Yersinia pestis]	-2.0			
+	KGA55103.1	 cutC family protein [Yersinia pestis]	-0.45857866700000005			
+	KGA55111.1	 putative dNA-binding protein [Yersinia pestis]	-2.0			
+	KGA55118.1	 septum site-determining protein MinD [Yersinia pestis]	-0.7450746220000001			
+	KGA55126.1	 Holliday junction DNA helicase RuvB [Yersinia pestis]	-2.0			
+	KGA55128.1	 outer membrane lipo, Slp family protein [Yersinia pestis]	-1.047227567			
+	KGA55161.1	 bacterial extracellular solute-binding s, 3 family protein [Yersinia pestis]	-2.0			
+	KGA55164.1	 lipid A biosynthesis (KDO)2-(lauroyl)-lipid IVA acyltransferase [Yersinia pestis]	-2.0			
+	KGA55165.1	 SPFH domain / Band 7 family protein [Yersinia pestis]	2.0			
+	KGA55202.1	 methyltransferase small domain protein [Yersinia pestis]	-2.0			
+	KGA55218.1	 oxidoreductase, NAD-binding Rossmann fold family protein [Yersinia pestis]	-2.0			
+	KGA55251.1	 50S ribosomal protein L25 [Yersinia pestis]	0.677978449			
+	KGA55263.1	 D-alanyl-D-alanine carboxypeptidase dacC [Yersinia pestis]	-2.0			
+	KGA55269.1	 bacterial extracellular solute-binding s, 5 Middle family protein [Yersinia pestis]	-0.8097437909999999			
+	KGA55290.1	 hypothetical protein DJ56_3199 [Yersinia pestis]	2.0			
+	KGA55324.1	 erythronate-4-phosphate dehydrogenase [Yersinia pestis]	-0.70376481			
+	KGA55341.1	 bifunctional FolC family protein [Yersinia pestis]	-0.49533376100000004			
+	KGA55353.1	 rmlD substrate binding domain protein [Yersinia pestis]	-2.0			
+	KGA55359.1	 acetyl-CoA C-acyltransferase FadI [Yersinia pestis]	-0.7889400320000001			
+	KGA55363.1	 acetyl-CoA carboxylase, carboxyl transferase, beta subunit [Yersinia pestis]	-0.697846558			
+	KGA55377.1	 fatty oxidation complex, alpha subunit FadJ [Yersinia pestis]	-1.699429422			
+	KGA55395.1	 putative phospholipid-binding lipoprotein mlaA [Yersinia pestis]	1.458233816			
+	KGA55398.1	 dihydroorotase, homodimeric type [Yersinia pestis]	1.826031491			
+	KGA55406.1	 rmlD substrate binding domain protein [Yersinia pestis]	-2.0			
+	KGA55432.1	 L-lactate dehydrogenase cytochrome [Yersinia pestis]	-2.170433037			
+	KGA55440.1	 UTP--glucose-1-phosphate uridylyltransferase [Yersinia pestis]	1.014381122			
+	KGA55449.1	 ATP phosphoribosyltransferase [Yersinia pestis]	-0.45761690299999996			
+	KGA55455.1	 4Fe-4S iron sulfur cluster binding s, NifH/frxC family protein [Yersinia pestis]	-0.833883023			
+	KGA55469.1	 translation elongation factor Tu [Yersinia pestis]	-0.22611130699999998			
+	KGA55470.1	 hypothetical protein DJ56_3472 [Yersinia pestis]	0.6516739460000001			
+	KGA55481.1	 malate synthase A [Yersinia pestis]	-1.392801317			
+	KGA55483.1	 transcription termination/antitermination factor NusG [Yersinia pestis]	-0.270274165			
+	KGA55490.1	 phosphoribosylamine--glycine ligase [Yersinia pestis]	-0.744151077			
+	KGA55511.1	 phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase [Yersinia pestis]	0.96999786			
+	KGA55515.1	 hypothetical protein DJ56_3474 [Yersinia pestis]	-2.0			
+	KGA55526.1	 UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase LpxD [Yersinia pestis]	-1.5858834			
+	KGA55547.1	 hypothetical protein DJ56_3583 [Yersinia pestis]	-2.0			
+	KGA55557.1	 hypothetical protein DJ56_3580 [Yersinia pestis]	-3.152075496			
+	KGA55562.1	 flavodoxin family protein [Yersinia pestis]	-2.0			
+	KGA55563.1	 insulinase family protein [Yersinia pestis]	-0.507877818			
+	KGA55565.1	 ribosome recycling factor [Yersinia pestis]	-0.365568843			
+	KGA55573.1	 ftsJ-like methyltransferase family protein [Yersinia pestis]	2.0			
+	KGA55580.1	 RNA methyltransferase, TrmH, group 1 family protein [Yersinia pestis]	2.244956904			
+	KGA55594.1	 Fe-S protein assembly chaperone HscA [Yersinia pestis]	-1.8588702719999999			
+	KGA55605.1	 pyridoxine 5'-phosphate synthase [Yersinia pestis]	-0.788040905			
+	KGA55617.1	 inosine-5'-monophosphate dehydrogenase [Yersinia pestis]	0.583146828			
+	KGA55633.1	 GMP synthase glutamine-hydrolyzing [Yersinia pestis]	0.680807066			
