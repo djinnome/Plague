@@ -1,0 +1,298 @@
+FrameId	Row_ID	Description	fold_change_strain	$FrameId
+GKDD-1151-MONOMER	KGA54665.1	 ecotin family protein [Yersinia pestis]	-1.207918333	GKDD-1151-MONOMER
+GKDD-3748-MONOMER	KGA52789.1	 pyridine nucleotide-disulfide oxidoreductase family protein [Yersinia pestis]	2.256991494	GKDD-3748-MONOMER
+GKDD-3913-MONOMER	KGA52674.1	 NAD(P)H binding domain of trans-2-enoyl-CoA reductase family protein [Yersinia pestis]	-1.250912625	GKDD-3913-MONOMER
+GKDD-1008-MONOMER	KGA55557.1	 hypothetical protein DJ56_3580 [Yersinia pestis]	-3.152075496	GKDD-1008-MONOMER
+GKDD-2608-MONOMER	KGA55377.1	 fatty oxidation complex, alpha subunit FadJ [Yersinia pestis]	-1.699429422	GKDD-2608-MONOMER
+GKDD-2885-MONOMER	KGA54305.1	 ABC transporter family protein [Yersinia pestis]	-2.456335477	GKDD-2885-MONOMER
+GKDD-3060-MONOMER	KGA52348.1	 ubiquinone oxidoreductase, Na(+)-translocating, C subunit [Yersinia pestis]	-1.4555849019999998	GKDD-3060-MONOMER
+GKDD-3760-MONOMER	KGA52919.1	 acetylornithine deacetylase [Yersinia pestis]	-1.669261075	GKDD-3760-MONOMER
+GKDD-1451-MONOMER	KGA55455.1	 4Fe-4S iron sulfur cluster binding s, NifH/frxC family protein [Yersinia pestis]	-0.833883023	GKDD-1451-MONOMER
+GKDD-1514-MONOMER	KGA55398.1	 dihydroorotase, homodimeric type [Yersinia pestis]	1.826031491	GKDD-1514-MONOMER
+GKDD-2738-MONOMER	KGA55594.1	 Fe-S protein assembly chaperone HscA [Yersinia pestis]	-1.8588702719999999	GKDD-2738-MONOMER
+GKDD-2571-MONOMER	KGA54204.1	 L-aspartate oxidase [Yersinia pestis]	-0.7984747190000001	GKDD-2571-MONOMER
+GKDD-2481-MONOMER	KGA54559.1	 tRNA-i(6)A37 thiotransferase enzyme MiaB [Yersinia pestis]	-1.127194888	GKDD-2481-MONOMER
+GKDD-2214-MONOMER	KGA53047.1	 periplasmic murein peptide-binding protein [Yersinia pestis]	-1.077973439	GKDD-2214-MONOMER
+GKDD-352-MONOMER	KGA54928.1	 ribosome small subunit-dependent GTPase A [Yersinia pestis]	-3.573161181	GKDD-352-MONOMER
+GKDD-994-MONOMER	KGA55526.1	 UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase LpxD [Yersinia pestis]	-1.5858834	GKDD-994-MONOMER
+GKDD-2332-MONOMER	KGA53568.1	 CRISPR type I-F/YPEST-associated protein Csy3 [Yersinia pestis]	-1.314366689	GKDD-2332-MONOMER
+GKDD-865-MONOMER	KGA54846.1	 mechanosensitive ion channel family protein [Yersinia pestis]	-0.9914574540000001	GKDD-865-MONOMER
+GKDD-25-MONOMER	KGA52500.1	 ribosome biogenesis GTP-binding protein YsxC [Yersinia pestis]	-0.734274097	GKDD-25-MONOMER
+GKDD-3108-MONOMER	KGA52232.1	 T-protein [Yersinia pestis]	-1.398658341	GKDD-3108-MONOMER
+GKDD-1305-MONOMER	KGA53958.1	 thioredoxin-disulfide reductase [Yersinia pestis]	-0.394971453	GKDD-1305-MONOMER
+GKDD-1701-MONOMER	KGA54398.1	 prolyl oligopeptidase family protein [Yersinia pestis]	-0.544016517	GKDD-1701-MONOMER
+GKDD-483-MONOMER	KGA52436.1	 hypothetical protein DJ56_362 [Yersinia pestis]	1.9763441659999998	GKDD-483-MONOMER
+GKDD-3123-MONOMER	KGA52195.1	 glutamate--cysteine ligase [Yersinia pestis]	1.248723692	GKDD-3123-MONOMER
+GKDD-277-MONOMER	KGA53405.1	 trkA-N domain protein [Yersinia pestis]	-0.9112729970000001	GKDD-277-MONOMER
+GKDD-474-MONOMER	KGA52335.1	 LPS-assembly protein lptD [Yersinia pestis]	1.768715817	GKDD-474-MONOMER
+GKDD-1814-MONOMER	KGA53490.1	 thioesterase domain protein [Yersinia pestis]	-1.155182484	GKDD-1814-MONOMER
+GKDD-837-MONOMER	KGA54889.1	 DSBA-like thioredoxin domain protein [Yersinia pestis]	-0.453709264	GKDD-837-MONOMER
+GKDD-1705-MONOMER	KGA54427.1	 protein YobA [Yersinia pestis]	-1.186372235	GKDD-1705-MONOMER
+GKDD-1203-MONOMER	KGA55251.1	 50S ribosomal protein L25 [Yersinia pestis]	0.677978449	GKDD-1203-MONOMER
+GKDD-2179-MONOMER	KGA52935.1	 NAD(P)(+) transhydrogenase (AB-specific), alpha subunit [Yersinia pestis]	-0.875283952	GKDD-2179-MONOMER
+GKDD-22-MONOMER	KGA54620.1	 DNA polymerase I [Yersinia pestis]	-1.917442114	GKDD-22-MONOMER
+GKDD-349-MONOMER	KGA54994.1	 EF-P lysine aminoacylase GenX [Yersinia pestis]	-1.38975528	GKDD-349-MONOMER
+GKDD-1822-MONOMER	KGA53524.1	 salicylate synthase [Yersinia pestis]	-0.9969953490000001	GKDD-1822-MONOMER
+GKDD-2493-MONOMER	KGA53847.1	 glucosamine-6-phosphate deaminase [Yersinia pestis]	-1.455584283	GKDD-2493-MONOMER
+GKDD-2961-MONOMER	KGA47898.1	 acriflavine resistance protein A [Yersinia pestis]	-0.706360835	GKDD-2961-MONOMER
+GKDD-2261-MONOMER	KGA55026.1	 bacterial regulatory s, lacI family protein [Yersinia pestis]	1.031048217	GKDD-2261-MONOMER
+GKDD-3012-MONOMER	KGA47909.1	 transcriptional regulator NrdR [Yersinia pestis]	-1.2077949159999999	GKDD-3012-MONOMER
+GKDD-48-MONOMER	KGA53116.1	 hypothetical protein DJ56_51 [Yersinia pestis]	-0.975156265	GKDD-48-MONOMER
+GKDD-1813-MONOMER	KGA53585.1	 AMP-binding enzyme family protein [Yersinia pestis]	-0.618029802	GKDD-1813-MONOMER
+GKDD-3759-MONOMER	KGA52873.1	 N-acetyl-gamma-glutamyl-phosphate reductase [Yersinia pestis]	-0.765927244	GKDD-3759-MONOMER
+GKDD-4121-MONOMER	KGA52022.1	 coagulase/fibrinolysin [Yersinia pestis]	-1.159173	GKDD-4121-MONOMER
+GKDD-1974-MONOMER	KGA55118.1	 septum site-determining protein MinD [Yersinia pestis]	-0.7450746220000001	GKDD-1974-MONOMER
+GKDD-2624-MONOMER	KGA55324.1	 erythronate-4-phosphate dehydrogenase [Yersinia pestis]	-0.70376481	GKDD-2624-MONOMER
+GKDD-481-MONOMER	KGA52392.1	 hypothetical protein DJ56_364 [Yersinia pestis]	-1.248663499	GKDD-481-MONOMER
+GKDD-348-MONOMER	KGA54937.1	 fumarate reductase, flavoprotein subunit [Yersinia pestis]	-2.374762425	GKDD-348-MONOMER
+GKDD-309-MONOMER	KGA54925.1	 zinc-binding dehydrogenase family protein [Yersinia pestis]	-0.665988216	GKDD-309-MONOMER
+GKDD-2041-MONOMER	KGA53932.1	 aldose 1-epimerase family protein [Yersinia pestis]	-0.744620985	GKDD-2041-MONOMER
+GKDD-1335-MONOMER	KGA54050.1	 chromosome partition protein mukE [Yersinia pestis]	0.7260666240000001	GKDD-1335-MONOMER
+GKDD-1326-MONOMER	KGA54043.1	 lipid A export permease/ATP-binding protein MsbA [Yersinia pestis]	-1.342156715	GKDD-1326-MONOMER
+GKDD-1321-MONOMER	KGA53987.1	 3-phosphoshikimate 1-carboxyvinyltransferase [Yersinia pestis]	-0.784110255	GKDD-1321-MONOMER
+GKDD-1467-MONOMER	KGA55440.1	 UTP--glucose-1-phosphate uridylyltransferase [Yersinia pestis]	1.014381122	GKDD-1467-MONOMER
+GKDD-3237-MONOMER	KGA52203.1	 hypothetical protein DJ56_496 [Yersinia pestis]	-2.8998136519999997	GKDD-3237-MONOMER
+GKDD-2717-MONOMER	KGA55633.1	 GMP synthase glutamine-hydrolyzing [Yersinia pestis]	0.680807066	GKDD-2717-MONOMER
+GKDD-1446-MONOMER	KGA48500.1	 periplasmic binding domain protein [Yersinia pestis]	-1.777179209	GKDD-1446-MONOMER
+GKDD-442-MONOMER	KGA52476.1	 hypothetical protein DJ56_401 [Yersinia pestis]	-1.373938892	GKDD-442-MONOMER
+GKDD-1819-MONOMER	KGA53517.1	 ABC transporter family protein [Yersinia pestis]	-0.9879590340000001	GKDD-1819-MONOMER
+GKDD-957-MONOMER	KGA55563.1	 insulinase family protein [Yersinia pestis]	-0.507877818	GKDD-957-MONOMER
+GKDD-1320-MONOMER	KGA54029.1	 phosphoserine transaminase [Yersinia pestis]	-0.43985179799999996	GKDD-1320-MONOMER
+GKDD-3479-MONOMER	KGA54762.1	 oxidoreductase molybdopterin binding domain protein [Yersinia pestis]	-1.9365818080000001	GKDD-3479-MONOMER
+GKDD-3331-MONOMER	KGA53269.1	 Obg family GTPase CgtA [Yersinia pestis]	-0.886518203	GKDD-3331-MONOMER
+GKDD-641-MONOMER	KGA53979.1	 1-acylglycerol-3-phosphate O-acyltransferases domain protein [Yersinia pestis]	1.184829312	GKDD-641-MONOMER
+GKDD-3410-MONOMER	KGA54156.1	 reactive intermediate/imine deaminase family protein [Yersinia pestis]	-0.539957476	GKDD-3410-MONOMER
+GKDD-1817-MONOMER	KGA53465.1	 amino acid adenylation domain protein [Yersinia pestis]	-1.262054416	GKDD-1817-MONOMER
+GKDD-2899-MONOMER	KGA54290.1	 4-hydroxy-tetrahydrodipicolinate synthase [Yersinia pestis]	-0.867398089	GKDD-2899-MONOMER
+GKDD-3575-MONOMER	KGA55469.1	 translation elongation factor Tu [Yersinia pestis]	-0.22611130699999998	GKDD-3575-MONOMER
+GKDD-1193-MONOMER	KGA54643.1	 glycosyl hydrolase 1 family protein [Yersinia pestis]	1.171765747	GKDD-1193-MONOMER
+GKDD-3296-MONOMER	KGA53313.1	 acetyltransferase family protein [Yersinia pestis]	3.339501735	GKDD-3296-MONOMER
+GKDD-2112-MONOMER	KGA53048.1	 orotidine 5'-phosphate decarboxylase [Yersinia pestis]	1.35505737	GKDD-2112-MONOMER
+GKDD-2829-MONOMER	KGA54288.1	 DNA ligase, NAD-dependent [Yersinia pestis]	0.905862105	GKDD-2829-MONOMER
+GKDD-534-MONOMER	KGA51778.1	 cell division protein FtsZ [Yersinia pestis]	-0.234389645	GKDD-534-MONOMER
+GKDD-612-MONOMER	KGA54016.1	 RNA polymerase sigma factor RpoD [Yersinia pestis]	-0.685029363	GKDD-612-MONOMER
+GKDD-2535-MONOMER	KGA54152.1	 trkA-N domain protein [Yersinia pestis]	-3.4320244960000004	GKDD-2535-MONOMER
+GKDD-2494-MONOMER	KGA53929.1	 PTS system, N-acetylglucosamine-specific IIBC component [Yersinia pestis]	-1.241807409	GKDD-2494-MONOMER
+GKDD-2170-MONOMER	KGA53175.1	 hypothetical protein DJ56_135 [Yersinia pestis]	1.12059093	GKDD-2170-MONOMER
+GKDD-1056-MONOMER	KGA51742.1	 dihydrolipoyllysine-residue succinyltransferase, E2 component of oxoglutarate dehydrogenase complex [Yersinia pestis]	-0.32141589	GKDD-1056-MONOMER
+GKDD-3338-MONOMER	KGA53372.1	 malate dehydrogenase, NAD-dependent [Yersinia pestis]	-0.265656557	GKDD-3338-MONOMER
+GKDD-63-MONOMER	KGA53139.1	 ADP-glyceromanno-heptose 6-epimerase [Yersinia pestis]	-0.51473494	GKDD-63-MONOMER
+GKDD-3343-MONOMER	KGA53263.1	 inorganic pyrophosphatase [Yersinia pestis]	2.132798425	GKDD-3343-MONOMER
+GKDD-1057-MONOMER	KGA51728.1	 succinyl-CoA ligase [ADP-forming] subunit beta [Yersinia pestis]	-0.361360681	GKDD-1057-MONOMER
+GKDD-2065-MONOMER	KGA53092.1	 aldehyde-alcohol dehydrogenase [Yersinia pestis]	-0.5536668379999999	GKDD-2065-MONOMER
+GKDD-443-MONOMER	KGA52419.1	 transaldolase [Yersinia pestis]	-0.363491392	GKDD-443-MONOMER
+GKDD-450-MONOMER	KGA52390.1	 Na+/H+ antiporter NhaA [Yersinia pestis]	1.207334992	GKDD-450-MONOMER
+GKDD-2919-MONOMER	KGA54264.1	 thioredoxin family protein [Yersinia pestis]	-0.544335716	GKDD-2919-MONOMER
+GKDD-3761-MONOMER	KGA52849.1	 phosphoenolpyruvate carboxylase family protein [Yersinia pestis]	-0.468379785	GKDD-3761-MONOMER
+GKDD-1561-MONOMER	KGA52552.1	 adenylosuccinate lyase [Yersinia pestis]	0.536403699	GKDD-1561-MONOMER
+GKDD-3698-MONOMER	KGA52862.1	 nucleotide sugar dehydrogenase family protein [Yersinia pestis]	-0.325707225	GKDD-3698-MONOMER
+GKDD-1768-MONOMER	KGA54459.1	 delta-1-pyrroline-5-carboxylate dehydrogenase [Yersinia pestis]	-0.619375412	GKDD-1768-MONOMER
+GKDD-279-MONOMER	KGA53228.1	 putative heme utilization radical SAM enzyme HutW [Yersinia pestis]	1.3790788040000002	GKDD-279-MONOMER
+GKDD-448-MONOMER	KGA52346.1	 chaperone protein DnaK [Yersinia pestis]	-0.259843595	GKDD-448-MONOMER
+GKDD-3203-MONOMER	KGA52084.1	 GTP pyrophosphokinase [Yersinia pestis]	-0.8013203000000001	GKDD-3203-MONOMER
+GKDD-3238-MONOMER	KGA52135.1	 aconitate hydratase 2 [Yersinia pestis]	-0.30880091600000004	GKDD-3238-MONOMER
+GKDD-873-MONOMER	KGA48966.1	 peptidase M48 family protein [Yersinia pestis]	-0.7168760590000001	GKDD-873-MONOMER
+GKDD-3642-MONOMER	KGA52807.1	 cell division ATP-binding protein FtsE [Yersinia pestis]	-0.49304717299999995	GKDD-3642-MONOMER
+GKDD-2507-MONOMER	KGA54143.1	 substrate binding domain of ABC-type glycine betaine transport system family protein [Yersinia pestis]	-0.6374442060000001	GKDD-2507-MONOMER
+GKDD-3375-MONOMER	KGA54191.1	 DJ-1/PfpI family protein [Yersinia pestis]	-0.508411336	GKDD-3375-MONOMER
+GKDD-1494-MONOMER	KGA55432.1	 L-lactate dehydrogenase cytochrome [Yersinia pestis]	-2.170433037	GKDD-1494-MONOMER
+GKDD-3341-MONOMER	KGA53322.1	 L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase [Yersinia pestis]	-0.5511293310000001	GKDD-3341-MONOMER
+GKDD-4023-MONOMER	KGA53864.1	 hypothetical protein DJ56_1845 [Yersinia pestis]	-1.032144351	GKDD-4023-MONOMER
+GKDD-531-MONOMER	KGA51793.1	 D-alanine--D-alanine ligase family protein [Yersinia pestis]	-0.740584413	GKDD-531-MONOMER
+GKDD-3212-MONOMER	KGA52194.1	 glutamate-1-semialdehyde-2,1-aminomutase [Yersinia pestis]	-0.449652311	GKDD-3212-MONOMER
+GKDD-3598-MONOMER	KGA55010.1	 acetyl-CoA C-acyltransferase FadA [Yersinia pestis]	-1.213406268	GKDD-3598-MONOMER
+GKDD-239-MONOMER	KGA53320.1	 shikimate dehydrogenase [Yersinia pestis]	-0.818884264	GKDD-239-MONOMER
+GKDD-422-MONOMER	KGA52313.1	 purine nucleoside phosphorylase [Yersinia pestis]	-0.7073724220000001	GKDD-422-MONOMER
+GKDD-3116-MONOMER	KGA52134.1	 16S rRNA processing protein RimM [Yersinia pestis]	-1.940934126	GKDD-3116-MONOMER
+GKDD-2061-MONOMER	KGA53841.1	 DNA-binding protein H-NS [Yersinia pestis]	-0.49400053299999996	GKDD-2061-MONOMER
+GKDD-3387-MONOMER	KGA54086.1	 peptidase Do family protein [Yersinia pestis]	-0.338174242	GKDD-3387-MONOMER
+GKDD-2911-MONOMER	KGA54215.1	 peptidyl-prolyl cis-trans isomerase B [Yersinia pestis]	-0.324275167	GKDD-2911-MONOMER
+GKDD-3548-MONOMER	KGA55511.1	 phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase [Yersinia pestis]	0.96999786	GKDD-3548-MONOMER
+GKDD-1201-MONOMER	KGA54712.1	 37-kD nucleoid-associated bacterial family protein [Yersinia pestis]	0.7759753079999999	GKDD-1201-MONOMER
+GKDD-3448-MONOMER	KGA54756.1	 periplasmic binding domain protein [Yersinia pestis]	-0.8487454659999999	GKDD-3448-MONOMER
+GKDD-2999-MONOMER	KGA47928.1	 hypothetical protein DJ56_3655 [Yersinia pestis]	-0.518407512	GKDD-2999-MONOMER
+GKDD-2629-MONOMER	KGA55363.1	 acetyl-CoA carboxylase, carboxyl transferase, beta subunit [Yersinia pestis]	-0.697846558	GKDD-2629-MONOMER
+GKDD-1945-MONOMER	KGA55103.1	 cutC family protein [Yersinia pestis]	-0.45857866700000005	GKDD-1945-MONOMER
+GKDD-1362-MONOMER	KGA51937.1	 hypothetical protein DJ56_4192 [Yersinia pestis]	1.128052646	GKDD-1362-MONOMER
+GKDD-2101-MONOMER	KGA53172.1	 protein yciN [Yersinia pestis]	1.388022776	GKDD-2101-MONOMER
+GKDD-3725-MONOMER	KGA52764.1	 dihydroxy-acid dehydratase [Yersinia pestis]	1.132978327	GKDD-3725-MONOMER
+GKDD-2832-MONOMER	KGA54324.1	 cysteine synthase A [Yersinia pestis]	-0.8142423320000001	GKDD-2832-MONOMER
+GKDD-1970-MONOMER	KGA55128.1	 outer membrane lipo, Slp family protein [Yersinia pestis]	-1.047227567	GKDD-1970-MONOMER
+GKDD-1679-MONOMER	KGA54433.1	 PTS system mannose-specific EIIAB component [Yersinia pestis]	-0.531903603	GKDD-1679-MONOMER
+GKDD-623-MONOMER	KGA54021.1	 bifunctional protein RfaE, domain I [Yersinia pestis]	-0.49124411700000004	GKDD-623-MONOMER
+GKDD-3373-MONOMER	KGA54197.1	 BON domain protein [Yersinia pestis]	-0.421299015	GKDD-3373-MONOMER
+GKDD-2685-MONOMER	KGA53608.1	 polyphosphate kinase 1 [Yersinia pestis]	-0.893892499	GKDD-2685-MONOMER
+GKDD-3382-MONOMER	KGA54104.1	 putative stringent starvation protein A [Yersinia pestis]	-0.330827313	GKDD-3382-MONOMER
+GKDD-3770-MONOMER	KGA52914.1	 1,4-alpha-glucan branching enzyme [Yersinia pestis]	-0.7034568040000001	GKDD-3770-MONOMER
+GKDD-1517-MONOMER	KGA51980.1	 ribonuclease, Rne/Rng family domain protein [Yersinia pestis]	-0.505509442	GKDD-1517-MONOMER
+GKDD-3885-MONOMER	KGA52694.1	 glycine--tRNA ligase, beta subunit [Yersinia pestis]	-0.48395047799999996	GKDD-3885-MONOMER
+GKDD-3573-MONOMER	KGA55483.1	 transcription termination/antitermination factor NusG [Yersinia pestis]	-0.270274165	GKDD-3573-MONOMER
+GKDD-3597-MONOMER	KGA55077.1	 fatty oxidation complex, alpha subunit FadB [Yersinia pestis]	-1.31746725	GKDD-3597-MONOMER
+GKDD-2577-MONOMER	KGA54165.1	 elongation factor 4 [Yersinia pestis]	-0.638537302	GKDD-2577-MONOMER
+GKDD-3538-MONOMER	KGA55481.1	 malate synthase A [Yersinia pestis]	-1.392801317	GKDD-3538-MONOMER
+GKDD-3549-MONOMER	KGA55490.1	 phosphoribosylamine--glycine ligase [Yersinia pestis]	-0.744151077	GKDD-3549-MONOMER
+GKDD-1917-MONOMER	KGA51667.1	 peptide chain release factor 1 [Yersinia pestis]	-0.98164066	GKDD-1917-MONOMER
+GKDD-2896-MONOMER	KGA54269.1	 phosphoribosylaminoimidazolesuccinocarboxamide synthase [Yersinia pestis]	-0.6355581220000001	GKDD-2896-MONOMER
+GKDD-2604-MONOMER	KGA55395.1	 putative phospholipid-binding lipoprotein mlaA [Yersinia pestis]	1.458233816	GKDD-2604-MONOMER
+GKDD-3462-MONOMER	KGA54793.1	 outer membrane lipoprotein slyB [Yersinia pestis]	-0.81614742	GKDD-3462-MONOMER
+GKDD-2835-MONOMER	KGA54257.1	 glucose-specific phosphotransferase enzyme IIA component [Yersinia pestis]	-0.24017481100000002	GKDD-2835-MONOMER
+GKDD-2718-MONOMER	KGA55617.1	 inosine-5'-monophosphate dehydrogenase [Yersinia pestis]	0.583146828	GKDD-2718-MONOMER
+GKDD-2139-MONOMER	KGA53042.1	 putative oxidoreductase [Yersinia pestis]	-0.47443998	GKDD-2139-MONOMER
+GKDD-2770-MONOMER	KGA55605.1	 pyridoxine 5'-phosphate synthase [Yersinia pestis]	-0.788040905	GKDD-2770-MONOMER
+GKDD-3488-MONOMER	KGA54735.1	 carbon-nitrogen hydrolase family protein [Yersinia pestis]	-0.381930714	GKDD-3488-MONOMER
+GKDD-2417-MONOMER	KGA54592.1	 NADH-quinone oxidoreductase subunit E [Yersinia pestis]	0.5539476210000001	GKDD-2417-MONOMER
+GKDD-1053-MONOMER	KGA51756.1	 succinate dehydrogenase, flavoprotein subunit [Yersinia pestis]	-0.460866523	GKDD-1053-MONOMER
+GKDD-3489-MONOMER	KGA54789.1	 modulator of DNA gyrase family protein [Yersinia pestis]	0.960229632	GKDD-3489-MONOMER
+GKDD-1440-MONOMER	KGA48457.1	 malic enzyme, NAD binding domain protein [Yersinia pestis]	-0.314217905	GKDD-1440-MONOMER
+GKDD-3263-MONOMER	KGA53326.1	 cytosol aminopeptidase [Yersinia pestis]	-0.517717622	GKDD-3263-MONOMER
+GKDD-1812-MONOMER	KGA53436.1	 TonB-dependent siderophore receptor family protein [Yersinia pestis]	-0.38106339899999997	GKDD-1812-MONOMER
+GKDD-987-MONOMER	KGA55565.1	 ribosome recycling factor [Yersinia pestis]	-0.365568843	GKDD-987-MONOMER
+GKDD-3310-MONOMER	KGA53420.1	 polyribonucleotide nucleotidyltransferase [Yersinia pestis]	-0.22977478899999998	GKDD-3310-MONOMER
+GKDD-3177-MONOMER	KGA52102.1	 DNA mismatch repair protein MutS [Yersinia pestis]	-0.7351497909999999	GKDD-3177-MONOMER
+GKDD-2630-MONOMER	KGA55341.1	 bifunctional FolC family protein [Yersinia pestis]	-0.49533376100000004	GKDD-2630-MONOMER
+GKDD-1477-MONOMER	KGA55449.1	 ATP phosphoribosyltransferase [Yersinia pestis]	-0.45761690299999996	GKDD-1477-MONOMER
+GKDD-3552-MONOMER	KGA55470.1	 hypothetical protein DJ56_3472 [Yersinia pestis]	0.6516739460000001	GKDD-3552-MONOMER
+GKDD-3313-MONOMER	KGA53407.1	 ribosomal protein S15 [Yersinia pestis]	1.101975234	GKDD-3313-MONOMER
+GKDD-3216-MONOMER	KGA52196.1	 penicillin-binding protein 1B [Yersinia pestis]	-1.011927855	GKDD-3216-MONOMER
+GKDD-2901-MONOMER	KGA54349.1	 putative peroxiredoxin bcp [Yersinia pestis]	-0.431063739	GKDD-2901-MONOMER
+GKDD-150-MONOMER	KGA52245.1	 sporulation related domain protein [Yersinia pestis]	-0.517344805	GKDD-150-MONOMER
+GKDD-2440-MONOMER	KGA54571.1	 methylmalonate-semialdehyde dehydrogenase [Yersinia pestis]	-1.261884483	GKDD-2440-MONOMER
+GKDD-1637-MONOMER	KGA51886.1	 dicarboxylate symporter family protein [Yersinia pestis]	-0.44144019	GKDD-1637-MONOMER
+GKDD-1054-MONOMER	KGA51750.1	 succinate dehydrogenase iron-sulfur subunit [Yersinia pestis]	-0.5930245789999999	GKDD-1054-MONOMER
+GKDD-2851-MONOMER	KGA54244.1	 sulfate ABC transporter, ATP-binding family protein [Yersinia pestis]	-1.001130535	GKDD-2851-MONOMER
+GKDD-1763-MONOMER	KGA54397.1	 bacterial extracellular solute-binding s, 3 family protein [Yersinia pestis]	-1.078794915	GKDD-1763-MONOMER
+GKDD-3776-MONOMER	KGA52760.1	 aspartate-semialdehyde dehydrogenase [Yersinia pestis]	-0.287425103	GKDD-3776-MONOMER
+GKDD-2463-MONOMER	KGA54542.1	 rare lipoA family protein [Yersinia pestis]	-0.39106528399999996	GKDD-2463-MONOMER
+GKDD-2269-MONOMER	KGA55048.1	 pyruvate kinase [Yersinia pestis]	-0.174993022	GKDD-2269-MONOMER
+GKDD-1049-MONOMER	KGA51743.1	 grpE family protein [Yersinia pestis]	-0.299080946	GKDD-1049-MONOMER
+GKDD-867-MONOMER	KGA54896.1	 phosphoglycerate kinase family protein [Yersinia pestis]	-0.22984680600000001	GKDD-867-MONOMER
+GKDD-1349-MONOMER	KGA53969.1	 THUMP domain protein [Yersinia pestis]	-0.9514840640000001	GKDD-1349-MONOMER
+GKDD-3044-MONOMER	KGA52496.1	 glutamate-5-semialdehyde dehydrogenase [Yersinia pestis]	-0.465127165	GKDD-3044-MONOMER
+GKDD-3000-MONOMER	KGA47911.1	 2-dehydropantoate 2-reductase family protein [Yersinia pestis]	-0.332319824	GKDD-3000-MONOMER
+GKDD-2607-MONOMER	KGA55359.1	 acetyl-CoA C-acyltransferase FadI [Yersinia pestis]	-0.7889400320000001	GKDD-2607-MONOMER
+GKDD-3201-MONOMER	KGA52088.1	 CTP synthase [Yersinia pestis]	0.391966398	GKDD-3201-MONOMER
+GKDD-306-MONOMER	KGA54961.1	 ferric uptake regulator family protein [Yersinia pestis]	-0.45461938399999996	GKDD-306-MONOMER
+GKDD-1066-MONOMER	KGA51737.1	 Tol-Pal system beta propeller repeat protein TolB [Yersinia pestis]	-0.283080088	GKDD-1066-MONOMER
+GKDD-3932-MONOMER	KGA52556.1	 ATP synthase F0, B subunit [Yersinia pestis]	-0.198783362	GKDD-3932-MONOMER
+GKDD-745-MONOMER	KGA50539.1	 aldo/keto reductase family protein [Yersinia pestis]	-0.243796166	GKDD-745-MONOMER
+GKDD-1635-MONOMER	KGA51883.1	 pectin degradation repressor protein kdgR [Yersinia pestis]	-0.427655451	GKDD-1635-MONOMER
+GKDD-1528-MONOMER	KGA51976.1	 beta-ketoacyl-acyl-carrier-protein synthase II [Yersinia pestis]	0.734399811	GKDD-1528-MONOMER
+GKDD-3602-MONOMER	KGA55063.1	 delta-aminolevulinic acid dehydratase family protein [Yersinia pestis]	0.613971705	GKDD-3602-MONOMER
+GKDD-3047-MONOMER	KGA52427.1	 alpha/beta hydrolase family protein [Yersinia pestis]	-0.393838232	GKDD-3047-MONOMER
+GKDD-3222-MONOMER	KGA52079.1	 poly(A) polymerase family protein [Yersinia pestis]	-0.9158529679999999	GKDD-3222-MONOMER
+GKDD-3664-MONOMER	KGA52801.1	 phospholipase A1 [Yersinia pestis]	0.6780137690000001	GKDD-3664-MONOMER
+GKDD-2546-MONOMER	KGA54185.1	 protein seqA [Yersinia pestis]	1.3022939740000001	GKDD-2546-MONOMER
+GKDD-3325-MONOMER	KGA53198.1	 ribosomal RNA large subunit methyltransferase J [Yersinia pestis]	-0.8794503370000001	GKDD-3325-MONOMER
+GKDD-2060-MONOMER	KGA53935.1	 nucleotide sugar dehydrogenase family protein [Yersinia pestis]	-0.41036426600000003	GKDD-2060-MONOMER
+GKDD-2744-MONOMER	KGA55580.1	 RNA methyltransferase, TrmH, group 1 family protein [Yersinia pestis]	2.244956904	GKDD-2744-MONOMER
+GKDD-3037-MONOMER	KGA52395.1	 recombination-associated protein rdgC [Yersinia pestis]	0.645408882	GKDD-3037-MONOMER
+GKDD-1055-MONOMER	KGA51734.1	 oxoglutarate dehydrogenase (succinyl-transferring), E1 component [Yersinia pestis]	-0.20779203300000001	GKDD-1055-MONOMER
+GKDD-1153-MONOMER	KGA54659.1	 ribonucleoside-diphosphate reductase 1 subunit beta [Yersinia pestis]	0.385651361	GKDD-1153-MONOMER
+GKDD-1211-MONOMER	KGA55269.1	 bacterial extracellular solute-binding s, 5 Middle family protein [Yersinia pestis]	-0.8097437909999999	GKDD-1211-MONOMER
+GKDD-3100-MONOMER	KGA52064.1	 ATP-dependent chaperone protein ClpB [Yersinia pestis]	-0.260443455	GKDD-3100-MONOMER
+GKDD-1289-MONOMER	KGA52323.1	 thiamine pyrophosphate enzyme, central domain protein [Yersinia pestis]	-1.365513652	GKDD-1289-MONOMER
+GKDD-2678-MONOMER	KGA53669.1	 phosphoribosylformylglycinamidine cyclo-ligase [Yersinia pestis]	0.897951095	GKDD-2678-MONOMER
+GKDD-872-MONOMER	KGA48972.1	 transketolase [Yersinia pestis]	-0.18383299	GKDD-872-MONOMER
+GKDD-234-MONOMER	KGA53316.1	 peptide deformylase [Yersinia pestis]	-0.550230629	GKDD-234-MONOMER
+GKDD-2890-MONOMER	KGA54268.1	 succinyl-diaminopimelate desuccinylase [Yersinia pestis]	-1.2958505409999999	GKDD-2890-MONOMER
+GKDD-1420-MONOMER	KGA48477.1	 heme ABC exporter, ATP-binding protein CcmA [Yersinia pestis]	-2.0	GKDD-1420-MONOMER
+GKDD-3817-MONOMER	KGA52787.1	 insulinase family protease [Yersinia pestis]	-2.0	GKDD-3817-MONOMER
+GKDD-82-MONOMER	KGA52938.1	 6-phosphofructokinase [Yersinia pestis]	-2.0	GKDD-82-MONOMER
+GKDD-3985-MONOMER	KGA55161.1	 bacterial extracellular solute-binding s, 3 family protein [Yersinia pestis]	-2.0	GKDD-3985-MONOMER
+GKDD-3758-MONOMER	KGA52898.1	 acetylglutamate kinase [Yersinia pestis]	-2.0	GKDD-3758-MONOMER
+GKDD-2103-MONOMER	KGA53148.1	 DNA topoisomerase I [Yersinia pestis]	-2.0	GKDD-2103-MONOMER
+GKDD-2530-MONOMER	KGA54095.1	 urease accessory protein UreG [Yersinia pestis]	-2.0	GKDD-2530-MONOMER
+GKDD-562-MONOMER	KGA55202.1	 methyltransferase small domain protein [Yersinia pestis]	-2.0	GKDD-562-MONOMER
+GKDD-2100-MONOMER	KGA53007.1	 peptidase S49 family protein [Yersinia pestis]	-2.0	GKDD-2100-MONOMER
+GKDD-2334-MONOMER	KGA53454.1	 CRISPR type I-F/YPEST-associated protein Csy1 [Yersinia pestis]	-2.0	GKDD-2334-MONOMER
+GKDD-2557-MONOMER	KGA54107.1	 FAD binding domain of DNA photolyase family protein [Yersinia pestis]	-2.0	GKDD-2557-MONOMER
+GKDD-523-MONOMER	KGA51786.1	 peptidoglycan synthase ftsI [Yersinia pestis]	-2.0	GKDD-523-MONOMER
+GKDD-2953-MONOMER	KGA54271.1	 DNA polymerase III, subunit gamma and tau [Yersinia pestis]	-2.0	GKDD-2953-MONOMER
+GKDD-3672-MONOMER	KGA52815.1	 HAD hydrolase, IA, variant 1 family protein [Yersinia pestis]	-2.0	GKDD-3672-MONOMER
+GKDD-3692-MONOMER	KGA52880.1	 4-alpha-L-fucosyltransferase glycosyl transferase group 56 family protein [Yersinia pestis]	-2.0	GKDD-3692-MONOMER
+GKDD-1254-MONOMER	KGA55263.1	 D-alanyl-D-alanine carboxypeptidase dacC [Yersinia pestis]	-2.0	GKDD-1254-MONOMER
+GKDD-2219-MONOMER	KGA53072.1	 transcriptional regulatory protein tyrR [Yersinia pestis]	-2.0	GKDD-2219-MONOMER
+GKDD-3452-MONOMER	KGA54726.1	 FGGY carbohydrate kinase domain-containing protein [Yersinia pestis]	-2.0	GKDD-3452-MONOMER
+GKDD-142-MONOMER	KGA52251.1	 penicillin-binding, 1A family protein [Yersinia pestis]	-2.0	GKDD-142-MONOMER
+GKDD-3707-MONOMER	KGA52910.1	 peptidyl-prolyl cis-trans isomerase C [Yersinia pestis]	-2.0	GKDD-3707-MONOMER
+GKDD-3369-MONOMER	KGA54146.1	 16S rRNA (cytidine(1402)-2'-O)-methyltransferase [Yersinia pestis]	-2.0	GKDD-3369-MONOMER
+GKDD-2391-MONOMER	KGA54570.1	 naphthoate synthase [Yersinia pestis]	-2.0	GKDD-2391-MONOMER
+GKDD-20-MONOMER	KGA54616.1	 phosphotransferase enzyme family protein [Yersinia pestis]	-2.0	GKDD-20-MONOMER
+GKDD-4002-MONOMER	KGA55111.1	 putative dNA-binding protein [Yersinia pestis]	-2.0	GKDD-4002-MONOMER
+GKDD-2639-MONOMER	KGA55353.1	 rmlD substrate binding domain protein [Yersinia pestis]	-2.0	GKDD-2639-MONOMER
+GKDD-1478-MONOMER	KGA55406.1	 rmlD substrate binding domain protein [Yersinia pestis]	-2.0	GKDD-1478-MONOMER
+GKDD-979-MONOMER	KGA55562.1	 flavodoxin family protein [Yersinia pestis]	-2.0	GKDD-979-MONOMER
+GKDD-3195-MONOMER	KGA52097.1	 sulfite reductase (NADPH) hemoprotein, beta-component [Yersinia pestis]	-2.0	GKDD-3195-MONOMER
+GKDD-2099-MONOMER	KGA53018.1	 short chain dehydrogenase family protein [Yersinia pestis]	-2.0	GKDD-2099-MONOMER
+GKDD-3550-MONOMER	KGA55515.1	 hypothetical protein DJ56_3474 [Yersinia pestis]	-2.0	GKDD-3550-MONOMER
+GKDD-2559-MONOMER	KGA54106.1	 NIF3 family protein [Yersinia pestis]	-2.0	GKDD-2559-MONOMER
+GKDD-2920-MONOMER	KGA54334.1	 protein QmcA [Yersinia pestis]	-2.0	GKDD-2920-MONOMER
+GKDD-1960-MONOMER	KGA55164.1	 lipid A biosynthesis (KDO)2-(lauroyl)-lipid IVA acyltransferase [Yersinia pestis]	-2.0	GKDD-1960-MONOMER
+GKDD-410-MONOMER	KGA52493.1	 ribosomal RNA small subunit methyltransferase C [Yersinia pestis]	-2.0	GKDD-410-MONOMER
+GKDD-400-MONOMER	KGA52376.1	 putative lipopolysaccharide heptosyltransferase III [Yersinia pestis]	-2.0	GKDD-400-MONOMER
+GKDD-3230-MONOMER	KGA52260.1	 carbonic anhydrase 2 [Yersinia pestis]	-2.0	GKDD-3230-MONOMER
+GKDD-3899-MONOMER	KGA52598.1	 pyridoxal-phosphate dependent enzyme family protein [Yersinia pestis]	-2.0	GKDD-3899-MONOMER
+GKDD-2777-MONOMER	KGA50772.1	 hypothetical protein DJ56_3797 [Yersinia pestis]	-2.0	GKDD-2777-MONOMER
+GKDD-1065-MONOMER	KGA51755.1	 protein TolA [Yersinia pestis]	-2.0	GKDD-1065-MONOMER
+GKDD-3346-MONOMER	KGA53375.1	 surface antigen variable number repeat family protein [Yersinia pestis]	-2.0	GKDD-3346-MONOMER
+GKDD-853-MONOMER	KGA54861.1	 ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6 family protein [Yersinia pestis]	-2.0	GKDD-853-MONOMER
+GKDD-946-MONOMER	KGA50793.1	 E3 ubiquitin-protein ligase ipaH9.8 [Yersinia pestis]	-2.0	GKDD-946-MONOMER
+GKDD-514-MONOMER	KGA51767.1	 acetolactate synthase, large subunit, biosynthetic type [Yersinia pestis]	-2.0	GKDD-514-MONOMER
+GKDD-3065-MONOMER	KGA52527.1	 phosphoheptose isomerase [Yersinia pestis]	-2.0	GKDD-3065-MONOMER
+GKDD-3920-MONOMER	KGA52631.1	 phosphate transport system regulatory protein PhoU [Yersinia pestis]	-2.0	GKDD-3920-MONOMER
+GKDD-177-MONOMER	KGA53274.1	 taurine ABC transporter, periplasmic binding protein [Yersinia pestis]	-2.0	GKDD-177-MONOMER
+GKDD-1948-MONOMER	KGA55088.1	 inner membrane protein yecN [Yersinia pestis]	-2.0	GKDD-1948-MONOMER
+GKDD-2923-MONOMER	KGA54219.1	 copper-translocating P-type ATPase [Yersinia pestis]	-2.0	GKDD-2923-MONOMER
+GKDD-1165-MONOMER	KGA54690.1	 putative enzyme [Yersinia pestis]	-2.0	GKDD-1165-MONOMER
+GKDD-2176-MONOMER	KGA52964.1	 fumarate and nitrate reduction regulatory protein [Yersinia pestis]	-2.0	GKDD-2176-MONOMER
+GKDD-1955-MONOMER	KGA55126.1	 Holliday junction DNA helicase RuvB [Yersinia pestis]	-2.0	GKDD-1955-MONOMER
+GKDD-3182-MONOMER	KGA52161.1	 tRNA pseudouridine synthase D [Yersinia pestis]	-2.0	GKDD-3182-MONOMER
+GKDD-3181-MONOMER	KGA52211.1	 5'/3'-nucleotidase SurE [Yersinia pestis]	-2.0	GKDD-3181-MONOMER
+GKDD-152-MONOMER	KGA52283.1	 ribulose-phosphate 3-epimerase [Yersinia pestis]	-2.0	GKDD-152-MONOMER
+GKDD-888-MONOMER	KGA48973.1	 YGGT family protein [Yersinia pestis]	-2.0	GKDD-888-MONOMER
+GKDD-26-MONOMER	KGA52494.1	 der GTPase activator family protein [Yersinia pestis]	-2.0	GKDD-26-MONOMER
+GKDD-3314-MONOMER	KGA53218.1	 tRNA pseudouridine(55) synthase [Yersinia pestis]	-2.0	GKDD-3314-MONOMER
+GKDD-2878-MONOMER	KGA54251.1	 bacterial regulatory s, luxR family protein [Yersinia pestis]	-2.0	GKDD-2878-MONOMER
+GKDD-1780-MONOMER	KGA54455.1	 hypothetical protein DJ56_2359 [Yersinia pestis]	-2.0	GKDD-1780-MONOMER
+GKDD-559-MONOMER	KGA55218.1	 oxidoreductase, NAD-binding Rossmann fold family protein [Yersinia pestis]	-2.0	GKDD-559-MONOMER
+GKDD-3210-MONOMER	KGA52224.1	 iron-sulfur cluster insertion protein erpA [Yersinia pestis]	-2.0	GKDD-3210-MONOMER
+	KGA52991.1	 hypothetical protein DJ56_4 [Yersinia pestis]	-2.0	
+GKDD-4018-MONOMER	KGA53813.1	 ParB/RepB/Spo0J family partition domain protein [Yersinia pestis]	-2.0	GKDD-4018-MONOMER
+GKDD-3892-MONOMER	KGA52665.1	 alpha amylase, catalytic domain protein [Yersinia pestis]	-2.0	GKDD-3892-MONOMER
+GKDD-180-MONOMER	KGA53265.1	 alpha-ketoglutarate-dependent taurine dioxygenase [Yersinia pestis]	-2.0	GKDD-180-MONOMER
+GKDD-2838-MONOMER	KGA54276.1	 response regulator [Yersinia pestis]	-2.0	GKDD-2838-MONOMER
+GKDD-1005-MONOMER	KGA55547.1	 hypothetical protein DJ56_3583 [Yersinia pestis]	-2.0	GKDD-1005-MONOMER
+GKDD-3621-MONOMER	KGA51874.1	 glycerophosphoryl diester phosphodiesterase family protein [Yersinia pestis]	-2.0	GKDD-3621-MONOMER
+GKDD-3859-MONOMER	KGA52571.1	 xylulokinase [Yersinia pestis]	-2.0	GKDD-3859-MONOMER
+GKDD-620-MONOMER	KGA53998.1	 bacterial SH3 domain protein [Yersinia pestis]	-2.0	GKDD-620-MONOMER
+GKDD-804-MONOMER	KGA54877.1	 glycosyl hydrolase 53 family protein [Yersinia pestis]	-2.0	GKDD-804-MONOMER
+GKDD-130-MONOMER	KGA52239.1	 ferrous iron transport protein B [Yersinia pestis]	-2.0	GKDD-130-MONOMER
+GKDD-465-MONOMER	KGA52463.1	 dihydrofolate reductase [Yersinia pestis]	-2.0	GKDD-465-MONOMER
+GKDD-41-MONOMER	KGA53008.1	 ATP-dependent DNA helicase RecG [Yersinia pestis]	-2.0	GKDD-41-MONOMER
+GKDD-3178-MONOMER	KGA52177.1	 RNA polymerase sigma factor RpoS [Yersinia pestis]	-2.0	GKDD-3178-MONOMER
+GKDD-2185-MONOMER	KGA53019.1	 HAMP domain protein [Yersinia pestis]	-2.0	GKDD-2185-MONOMER
+GKDD-3506-MONOMER	KGA54759.1	 protein pmbA [Yersinia pestis]	-2.0	GKDD-3506-MONOMER
+GKDD-840-MONOMER	KGA54841.1	 inner membrane CreD family protein [Yersinia pestis]	-2.0	GKDD-840-MONOMER
+GKDD-428-MONOMER	KGA52411.1	 ompA family protein [Yersinia pestis]	2.0	GKDD-428-MONOMER
+GKDD-1557-MONOMER	KGA52613.1	 cupin superfamily protein [Yersinia pestis]	2.0	GKDD-1557-MONOMER
+GKDD-2471-MONOMER	KGA54543.1	 leucine--tRNA ligase [Yersinia pestis]	2.0	GKDD-2471-MONOMER
+GKDD-1068-MONOMER	KGA51749.1	 tol-pal system protein YbgF [Yersinia pestis]	2.0	GKDD-1068-MONOMER
+GKDD-3995-MONOMER	KGA55165.1	 SPFH domain / Band 7 family protein [Yersinia pestis]	2.0	GKDD-3995-MONOMER
+GKDD-3017-MONOMER	KGA50799.1	 tRNA-guanine transglycosylase [Yersinia pestis]	2.0	GKDD-3017-MONOMER
+GKDD-869-MONOMER	KGA53690.1	 istB-like ATP binding family protein [Yersinia pestis]	2.0	GKDD-869-MONOMER
+GKDD-3608-MONOMER	KGA51871.1	 2-polyprenylphenol 6-hydroxylase [Yersinia pestis]	2.0	GKDD-3608-MONOMER
+GKDD-884-MONOMER	KGA48977.1	 agmatine deiminase [Yersinia pestis]	2.0	GKDD-884-MONOMER
+GKDD-2467-MONOMER	KGA54566.1	 ribosome silencing factor [Yersinia pestis]	2.0	GKDD-2467-MONOMER
+GKDD-3486-MONOMER	KGA54802.1	 ribonuclease G [Yersinia pestis]	2.0	GKDD-3486-MONOMER
+GKDD-970-MONOMER	KGA55573.1	 ftsJ-like methyltransferase family protein [Yersinia pestis]	2.0	GKDD-970-MONOMER
+GKDD-61-MONOMER	KGA53058.1	 lipopolysaccharide heptosyltransferase I [Yersinia pestis]	2.0	GKDD-61-MONOMER
+GKDD-1914-MONOMER	KGA51682.1	 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase [Yersinia pestis]	2.0	GKDD-1914-MONOMER
+GKDD-1248-MONOMER	KGA55290.1	 hypothetical protein DJ56_3199 [Yersinia pestis]	2.0	GKDD-1248-MONOMER
+GKDD-527-MONOMER	KGA51789.1	 UDP-N-acetylmuramoylalanine--D-glutamate ligase [Yersinia pestis]	2.0	GKDD-527-MONOMER
+GKDD-62-MONOMER	KGA53115.1	 lipopolysaccharide heptosyltransferase II [Yersinia pestis]	2.0	GKDD-62-MONOMER
+GKDD-181-MONOMER	KGA53374.1	 glycosyltransferase 9 family protein [Yersinia pestis]	2.0	GKDD-181-MONOMER
+GKDD-2461-MONOMER	KGA54546.1	 hypothetical protein DJ56_2497 [Yersinia pestis]	2.0	GKDD-2461-MONOMER
+GKDD-115-MONOMER	KGA52218.1	 aspartate kinase domain protein [Yersinia pestis]	2.0	GKDD-115-MONOMER
+GKDD-2856-MONOMER	KGA54241.1	 SIS domain protein [Yersinia pestis]	2.0	GKDD-2856-MONOMER
+GKDD-1866-MONOMER	KGA53433.1	 succinylornithine transaminase family protein [Yersinia pestis]	2.0	GKDD-1866-MONOMER
+GKDD-1697-MONOMER	KGA54388.1	 ATP-independent RNA helicase dbpA [Yersinia pestis]	2.0	GKDD-1697-MONOMER
